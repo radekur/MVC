@@ -12,7 +12,7 @@ Projekt pozwala na pełne zarządzanie biblioteką książek tj. dodawanie,edydo
 
 ---
 
-# Funkcjonalności
+## Funkcjonalności
 
 Apliakcja służy do zarządzania biblioteką cyfrową:
 * **Wyświetlanie listy** - ukazanie listy wszystkich książek i informacji o nich z bazy danych w formie tabeli.
@@ -20,7 +20,7 @@ Apliakcja służy do zarządzania biblioteką cyfrową:
 * **Dodawanie nowej książki** - dodawanie książki przez formularz z walidacją danych wejściowych (długość znaków, brak pustego pola).
 * **Usuwanie książki z listy** - usuwanie danej pozycji książki z bazy danych. 
 
-# Instrukcja uruchomienia
+## Instrukcja uruchomienia
 
 ### Wymagania programowe
 * .NET SDK w wersji 8.0 lub nowszej
