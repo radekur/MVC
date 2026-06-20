@@ -5,7 +5,7 @@ Projekt pozwala na pełne zarządzanie biblioteką książek tj. dodawanie,edydo
 
 ---
 
-##Spis treści
+## Spis treści
 1. [funkcjonalności](#funkcjonalności)
 2. [instrukcja uruchomienia](#instrukcja-uruchomienia)
 
@@ -23,7 +23,7 @@ Apliakcja służy do zarządzania biblioteką cyfrową:
 # Instrukcja uruchomienia
 
 ### Wymagania programowe
-* .NET SKD w wersji 8.0 lub nowszej
+* .NET SDK w wersji 8.0 lub nowszej
 
 ### Jak uruchomić
 
