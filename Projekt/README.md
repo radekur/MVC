@@ -29,11 +29,6 @@ Apliakcja służy do zarządzania biblioteką cyfrową:
 
 Aby uruchomić aplikację należy znajdować się w folderze z projektem i uruchomić terminal.
 
-Przywrócenie pakietów:
-
-```bash
-dotnet restore
-```
 
 Utworzenie bazy danych:
 
